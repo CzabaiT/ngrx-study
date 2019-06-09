@@ -1,1 +1,1 @@
-# NgrxStudy
+# NGRX Study
